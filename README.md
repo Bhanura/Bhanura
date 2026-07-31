@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanura Waduge</h1>
-<h3 align="center">IT & Management Undergraduate | AI, Data Science & Software Engineering Enthusiast</h3>
+<h3 align="center">BSc Honors in IT & Management (second upper) | AI/ML Engineer </h3>
 
 
 
